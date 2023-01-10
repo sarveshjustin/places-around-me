@@ -1,6 +1,6 @@
 # Places Around Me
 ## AIM:
-To develop a website to display details about the places around my house.
+To develop a website to display details about saveetha block of medical.
 
 ## Design Steps:
 
